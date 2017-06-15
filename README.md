@@ -1,4 +1,4 @@
-RECIPROCITY TOOLBOX
+#RECIPROCITY TOOLBOX
 
 This Matlab toolbox provides a set of functions to implement the EEG-informed optimization of the tDCS montage, as outlined in:
 Dmochowski, J. P., Koessler, L., Norcia, A. M., Bikson, M., & Parra, L. C. (2017). Optimal use of EEG recordings to target active brain areas with transcranial electrical stimulation. NeuroImage.
