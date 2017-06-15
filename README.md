@@ -13,7 +13,7 @@ while also generating Figure 3 of the manuscript.
 
 Dependencies:
   * you must have the EEGLAB function topoplot, and its dependencies on your system, in order to visualize the resulting montage.  
-  * NB: EEGLAB is not required to implement reciprocity!
+  * NB: EEGLAB is not required to implement reciprocity, but rather to visualize its results on the scalp.
   
 To solve the L^1 constrained least squares problem, we implemented the technique described in:
 
