@@ -4,8 +4,10 @@ This Matlab toolbox provides a set of functions to implement EEG-informed optimi
 Dmochowski, J. P., Koessler, L., Norcia, A. M., Bikson, M., & Parra, L. C. (2017). Optimal use of EEG recordings to target active brain areas with transcranial electrical stimulation. NeuroImage.
 
 The best place to start is generateFigure.m, which demonstrates the usage of the core functions:
+
   * reciprocate.m (unconstrained reciprocity)
   * tibshirani.m (L^1 constrained reciprocity)
+
 while also generating Figure 3 of the manuscript.
 
 Dependencies:
